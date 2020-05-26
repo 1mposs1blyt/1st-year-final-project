@@ -1,0 +1,14 @@
+.sales{
+    background-color:#DC143C;
+
+}
+.nav-item a {
+    color: #ffa500;
+}
+.sales a {
+    color: #ffffff;
+}
+.form-control {
+    color: #ffa500;
+    background-color: rgba(255, 139, 30, 0.55);
+}
